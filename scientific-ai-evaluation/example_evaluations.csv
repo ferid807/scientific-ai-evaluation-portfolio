@@ -1,0 +1,5 @@
+topic,claim,verdict,error_category,reviewer_note
+Polymer science,"Tg and Tm are interchangeable temperatures.",Incorrect,Conceptual,"Tg describes a glass transition in amorphous regions; Tm is associated with melting of crystalline regions."
+Analytical chemistry,"A high R-squared value alone proves that a calibration is valid.",Incorrect,Scope/qualification,"Inspect residuals, range, weighting, replicate behavior, and method-specific requirements."
+Reaction kinetics,"A larger Arrhenius activation energy always means a faster reaction.",Incorrect,Conceptual,"At fixed temperature and pre-exponential factor, a larger activation energy lowers the rate constant."
+Chemical engineering,"A mass balance can close while the process model is still wrong.",Correct,Interpretation,"Balance closure is necessary but not sufficient evidence of model validity."
